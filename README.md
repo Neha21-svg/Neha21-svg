@@ -1,5 +1,10 @@
-About Me - Neha Kumari
-## Hi there 👋 I'm Neha Kumari,a passionate software developer and tester with a strong foundation in Programming and Communication. Currently transitioning into the software field , I am committed to delivering quality and seamless user experiences through rigorous testing and development practices.
+
+## About Me - Neha Kumari
+👋 Hi there! I'm Neha Kumari, a passionate software developer and tester with a strong foundation in Programming and Communication. Currently transitioning into the software field, I am committed to delivering quality and seamless user experiences through rigorous testing and development practices.
+
+🎓 Education
+.Bachelor of Business Administration
+.Currently enhancing my software skills at Masai School.
 
 
 
@@ -9,11 +14,11 @@ About Me - Neha Kumari
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Selenium
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 💬 Ask me about ..
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 Pronouns: ...She/her
 - ⚡ Fun fact: ...
 -->

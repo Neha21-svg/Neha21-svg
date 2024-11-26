@@ -22,7 +22,6 @@
 ## 🛠 My Tech Toolbox:
 ![image](https://github.com/user-attachments/assets/fdfbbe0a-ccfb-4871-b791-997d189f6dff)
 ![image](https://github.com/user-attachments/assets/0dd2f9ef-ba96-4986-a25e-5f44474bfab3)
-![image](https://github.com/user-attachments/assets/c3c103de-1e3a-4449-b267-b4a238609afc)
 ![image](https://github.com/user-attachments/assets/dd6c6a9a-ad0a-434c-83ee-2639d3fe660c)
 ![image](https://github.com/user-attachments/assets/97236f04-9806-49d9-9c4f-52128e1bf4c4)
 ![image](https://github.com/user-attachments/assets/43deac63-ab59-4856-85cf-e0f34bff7e88)

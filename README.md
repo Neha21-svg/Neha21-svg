@@ -8,21 +8,20 @@
 
 ## What Do I Do?
 .🔍 Software Quality Assurance: Focused on ensuring bug-free and high-performance applications.
+
 .💡 Continuous Learning: Always eager to learn new tools and testing methodologies to improve 
  software quality.
+ 
 .🧩 Problem Solving: Enjoy debugging issues and optimizing test scripts to achieve efficiency.
+
 .🤝 Collaboration: Thrive in team environments, working closely with developers to enhance 
  product quality.
+ 
 .🎯 Automation-Driven: Committed to expanding the scope of automation to improve test accuracy and save time.
+
 ## 🛠 My Tech Toolbox:
- https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the- 
- badge&logo=javascript&logoColor=black
+![image](https://github.com/user-attachments/assets/fdfbbe0a-ccfb-4871-b791-997d189f6dff)
 
- https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
-
- https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-
- https://img.shields.io/badge/Selenium-Automation-brightgreen?logo=selenium&logoColor=white)
 
 
 

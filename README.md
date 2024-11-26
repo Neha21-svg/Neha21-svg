@@ -21,6 +21,30 @@
 
 ## 🛠 My Tech Toolbox:
 ![image](https://github.com/user-attachments/assets/fdfbbe0a-ccfb-4871-b791-997d189f6dff)
+![image](https://github.com/user-attachments/assets/0dd2f9ef-ba96-4986-a25e-5f44474bfab3)
+![image](https://github.com/user-attachments/assets/c3c103de-1e3a-4449-b267-b4a238609afc)
+![image](https://github.com/user-attachments/assets/dd6c6a9a-ad0a-434c-83ee-2639d3fe660c)
+![image](https://github.com/user-attachments/assets/97236f04-9806-49d9-9c4f-52128e1bf4c4)
+![image](https://github.com/user-attachments/assets/43deac63-ab59-4856-85cf-e0f34bff7e88)
+
+## 🔍 Testing Focus
+![image](https://github.com/user-attachments/assets/c7628cf0-55d3-4da8-abc2-fed3d0cf0f4d)
+![image](https://github.com/user-attachments/assets/a69635ae-24db-4717-9493-4e2b008b7654)
+![image](https://github.com/user-attachments/assets/1d26ea4b-d19d-4be7-a007-d6497da88530)
+![image](https://github.com/user-attachments/assets/b1f3ca6c-b9a6-4b36-81e8-037142384cec)
+
+## 📚 Methodologies
+![image](https://github.com/user-attachments/assets/f064d085-fce7-4a97-af1f-94abf0fdca2e)
+![image](https://github.com/user-attachments/assets/5ee94689-0fc7-41bd-8b58-bdce45718d7c)
+![image](https://github.com/user-attachments/assets/c9523c43-8ee3-4b56-b883-e5d5a61b0af7)
+
+## Let's Connect!
+
+## 📧 Email:   nehakumari240602@gmail.com
+
+## 🔗 LinkedIn: https://www.linkedin.com/in/neha-kumari-466385252/
+
+✨ Excited about building and testing quality software that delivers great user experiences! ✨
 
 
 

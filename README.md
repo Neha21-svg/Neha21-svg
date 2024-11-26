@@ -1,10 +1,14 @@
 
 ## About Me - Neha Kumari
 👋 Hi there! I'm Neha Kumari, a passionate software developer and tester with a strong foundation in Programming and Communication. Currently transitioning into the software field, I am committed to delivering quality and seamless user experiences through rigorous testing and development practices.
+## 🎓 Education 
+ .Bachelor of Business Administration 
+ . Currently enhancing my software skills at Masai School.
 
-🎓 Education
-.Bachelor of Business Administration
-.Currently enhancing my software skills at Masai School.
+## Skills
+## Programming skills
+
+
 
 
 
